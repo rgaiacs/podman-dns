@@ -69,3 +69,5 @@ curl: (7) Failed to connect to methodshub.gesis port 80 after 2044 ms: Could not
 ## Expected
 
 `curl` from Windows and from WSL to behave the same way.
+
+When using Docker Desktop, `curl` from Windows and from WSL behave the same way!
